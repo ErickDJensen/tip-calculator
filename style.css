@@ -1,21 +1,26 @@
 body {
     background-color: blue;
     text-align: center;
+    font-size: 30px;
 }
 
 .bill {
     width: 60px;
-    margin: 10px auto;
 }
 
 .tip_percentage {
     display: block;
-    width: 70px;
+    width: 140px;
+    height: 25px;
     margin: 10px auto;
 }
 
-label {
-    margin: 10px 0;
+label, input {
+    margin: 0 0 10px;
+}
+
+input {
+    height: 25px;
 }
 
 button {
@@ -24,4 +29,8 @@ button {
     height: 35px;
     width: 125px;
     font-size: 20px;
+}
+
+p {
+    margin: 5px;
 }
