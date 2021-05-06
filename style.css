@@ -4,6 +4,16 @@ body {
     font-size: 30px;
 }
 
+.tip_calculator {
+    border: 2px solid white;
+    margin: 10% 30% 50% 30%;
+    border-radius: 15%;
+    -webkit-border-radius: 15%;
+    -moz-border-radius: 15%;
+    -ms-border-radius: 15%;
+    -o-border-radius: 15%;
+}
+
 .bill {
     width: 60px;
 }
@@ -33,4 +43,8 @@ button {
 
 p {
     margin: 5px;
+}
+
+.total {
+    margin-bottom: 60px;
 }
