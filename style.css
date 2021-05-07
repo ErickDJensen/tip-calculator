@@ -6,6 +6,7 @@ body {
 
 .tip_calculator {
     border: 2px solid white;
+    height: 550px;
     margin: 10% 30% 50% 30%;
     border-radius: 15%;
     -webkit-border-radius: 15%;
@@ -45,6 +46,3 @@ p {
     margin: 5px;
 }
 
-.total {
-    margin-bottom: 60px;
-}
