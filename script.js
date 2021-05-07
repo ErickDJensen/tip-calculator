@@ -14,8 +14,6 @@ const calculate = () => {
     total.innerHTML = html;
 }
 
-
-
 button.addEventListener("click", calculate);
 
 

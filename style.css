@@ -6,13 +6,15 @@ body {
 
 .tip_calculator {
     border: 2px solid white;
-    height: 550px;
+    height: 500px;
+    width: 450px;
     margin: 10% 30% 50% 30%;
     border-radius: 15%;
     -webkit-border-radius: 15%;
     -moz-border-radius: 15%;
     -ms-border-radius: 15%;
     -o-border-radius: 15%;
+    background-color: cornflowerblue;
 }
 
 .bill {
@@ -46,3 +48,6 @@ p {
     margin: 5px;
 }
 
+h3 {
+    margin: 0;
+}
